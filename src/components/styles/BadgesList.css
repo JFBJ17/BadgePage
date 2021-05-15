@@ -1,0 +1,25 @@
+/* .BadgesList ul>li {
+  margin-bottom: 1rem;
+} */
+
+.BadgesListItem {
+  background: #FFFFFF;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.23);
+  border-radius: 5px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.BadgesListItem__avatar {
+  border-radius: 50%;
+  background: #a3a3a3;
+  margin-right: 0.5rem;
+  width: 80px;
+  height: 80px;
+  border-style: solid;
+  border-color: #a3a3a3;
+}
+
+.icon {
+  color: #00acee;
+}
